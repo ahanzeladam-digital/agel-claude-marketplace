@@ -1,0 +1,14 @@
+{
+  "name": "agel-marketing-tools",
+  "owner": {
+    "name": "AGEL Marketing"
+  },
+  "plugins": [
+    {
+      "name": "ppc-seo-apis",
+      "source": "./plugins/ppc-seo-apis",
+      "description": "ScrapeCreators, DataForSEO, and Firecrawl skills for PPC/SEO competitive analysis",
+      "version": "1.0.0"
+    }
+  ]
+}
